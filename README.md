@@ -77,7 +77,7 @@ This project explores the relationship between mobile device specifications and 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/product_data_analysis.git
+   git clone https://github.com/your-repo/product-data-analysis.git
    
 2. Install required libraries:
    
