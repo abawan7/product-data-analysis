@@ -5,6 +5,10 @@ This project explores the relationship between mobile device specifications and 
 
 ---
 
+# Demo
+![Demo](https://github.com/abawan7/product_data_analysis/blob/main/PBI_Screenshot.png)
+
+---
 ## Objectives
 1. **Standardize and Analyze Product Features**  
    - Preprocess raw product data for consistency and comparability.
