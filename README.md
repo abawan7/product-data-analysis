@@ -5,7 +5,7 @@ This project explores the relationship between mobile device specifications and 
 
 ---
 
-# Demo
+# Power BI
 ![Demo](https://github.com/abawan7/product_data_analysis/blob/main/PBI_Screenshot.png)
 
 ---
